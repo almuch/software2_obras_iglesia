@@ -3,8 +3,8 @@
 /**
  * Created by PhpStorm.
  * User: Fernando
- * Date: 13/09/2016
- * Time: 06:46 PM
+ * Date: 14/09/2016
+ * Time: 3:18 PM
  */
 class Comentario{
     private $db;
