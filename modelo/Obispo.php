@@ -89,7 +89,7 @@ class Obispo{
         }
     }
     /*
-     * Modificar Sugerencia
+     * Modificar Obispo
      */
     public function modificarObispo($data, $id){
         //Query
