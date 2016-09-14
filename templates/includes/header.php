@@ -22,6 +22,9 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="templates/js/bootstrap.min.js"></script>
 
+		<!-- Propios estilos -->
+		<link rel="stylesheet" href="templates/css/style.css"/>
+
 		<!--[if IE]>
   		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->

@@ -12,60 +12,63 @@
         <div class="col-md-3">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    Panel de Usuario
+                    Filtros
                 </div>
                 <div class="panel-body">
-                    <img src="templates/images/user.png" class="img-responsive" alt="Responsive image">
+                    <b> Jurisdicción Eclesiástica: </b>
+                    <br><br>
+                    <select class="form-control">
+                        <option>Todas las jurisdicciones</option>
+                        <option>Arquidiócesis de Cochabamba</option>
+                        <option>Arquidiócesis de La Paz</option>
+                    </select>
                 </div>
                 <div class="panel-body">
-                    <b> Nombre: </b> S.E. Mons. Antonio Bonifacio Reimann Panic, O.F.M.
+                    <b> Departamento: </b>
+                    <br><br>
+                    <select class="form-control">
+                        <option>Cualquier departamento</option>
+                        <option>La Paz</option>
+                        <option>Oruro</option>
+                    </select>
                 </div>
                 <div class="panel-body">
-                    <b> Lugar de nacimiento: </b> Kadlub Turowski, Diócesis de Opole, Polonia
-                </div>
-                <div class="panel-body">
-                    <b> Fecha de nacimiento: </b> 17 de Noviembre, 1990
+                    <b> Tipo de Obra: </b>
+                    <br><br>
+                    <select class="form-control">
+                        <option>Obras de la iglesia</option>
+                        <option>Parroquia</option>
+                        <option>Casa religiosa</option>
+                    </select>
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-9">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     Obras de la Iglesia
                 </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-body">
-                    <div class="col-md-4">
-                        <img src="templates/images/user.png" class="img-responsive" alt="Responsive image">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="panel-body">
-                            <b> Fecha de nacimiento: </b> 17 de Noviembre, 1990
-                        </div>
-                        <div class="panel-body">
-                            <b> Fecha de nacimiento: </b> 17 de Noviembre, 1990
-                        </div>
-                    </div>
+                <div class="panel-body" id="map">
+                    <?php
+                    /**
+                     * AQUI VIENE EL MAPA
+                     */
+                    ?>
                 </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-body">
-                    <div class="col-md-4">
-                        <img src="templates/images/user.png" class="img-responsive" alt="Responsive image">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="panel-body">
-                            <b> Fecha de nacimiento: </b> 17 de Noviembre, 1990
-                        </div>
-                        <div class="panel-body">
-                            <b> Fecha de nacimiento: </b> 17 de Noviembre, 1990
-                        </div>
-                    </div>
-                </div>
+                <script type="text/javascript">
+                    var map;
+                    function initMap() {
+                        map = new google.maps.Map(document.getElementById('map'), {
+                            center: {lat: -16.4827386, lng: -64.9922457},
+                            zoom: 6
+                        });
+                    }
+                </script>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwCdPO48O_RjGJrQD68A_Z8IE3i7JeXzk&callback=initMap">
+                </script>
             </div>
         </div>
-        <div class="col-md-3">Otros</div>
     </div>
 </div>
 </body>

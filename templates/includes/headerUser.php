@@ -22,6 +22,9 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="templates/js/bootstrap.min.js"></script>
 
+    <!-- Propios estilos -->
+    <link rel="stylesheet" href="templates/css/style.css"/>
+
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -72,9 +75,7 @@
 
             <!-- Usuario -->
             <ul class="nav navbar-nav navbar-right">
-                <li><a class="navbar-brand" href="#"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a></li>
-                <li><a class="navbar-brand" href="#"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
-                <li><a class="navbar-brand" href="#"><span class="glyphicon glyphicon-off" aria-hidden="true"></span></a></li>
+                <li><a class="navbar-brand">Bienvenido usuario</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
