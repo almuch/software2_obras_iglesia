@@ -134,5 +134,5 @@ class Usuario{
 		unset($_SESSION['tipo']);
 		return true;
 	}
-
+    public function FAKE(){}
 }
