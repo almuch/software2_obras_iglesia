@@ -40,37 +40,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><img alt="Brand" src="templates/images/logo.png" width="20px"></a>
+            <a class="navbar-brand" href="index.php"><img alt="Brand" src="templates/images/logo.png" width="20px"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <!-- Proyectos -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Proyectos <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#"> Obras de la Iglesia </a></li>
-                        <li><a href="#"> Nuevo proyecto </a></li>
-                        <li><a href="#"> Registro de departamento </a></li>
-                        <li><a href="#"> Registro de tipo de obra </a></li>
-                    </ul>
-                </li>
+                <li><a href="index.php"> Obras de la Iglesia </a></li>
 
-                <!-- Reportes -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Reportes <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#"> Reportes planos </a></li>
-                        <li><a href="#"> Proyectos por departamento </a></li>
-                        <li><a href="#"> Proyectos por jurisdicción </a></li>
-                        <li><a href="#"> Proyectos por tipo de obra </a></li>
-
-                        <li role="separator" class="divider"></li>
-
-                        <li><a href="#"> Mapa de jurisdicciones </a></li>
-                    </ul>
-                </li>
+                <!-- Mapas -->
+                <li><a href="map.php"> Mapa de jurisdicciones </a></li>
             </ul>
 
             <!-- Usuario -->
