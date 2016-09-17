@@ -12,7 +12,7 @@ class Historial{
         $this->db = new Database;
     }
     /*
-     * Agregar Historial
+     * Agregar Historial.
      */
     public function agregarHistorial($data){
         //Insert Query
