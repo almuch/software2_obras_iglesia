@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dffef5c4-c087-4864-98bb-01147a640e6b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelo/Obra.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelo/TipoObra.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dffef5c4-c087-4864-98bb-01147a640e6b" name="Default" comment="" />
     <ignored path="software2_obras_iglesia.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,8 +24,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="90" column="63" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="63" />
+            <state relative-caret-position="1430">
+              <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -45,43 +41,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TipoObispo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modelo/TipoObispo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-406">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-              <folding>
-                <marker date="1473826726742" expanded="true" signature="344:547" ph="INSERT INTO obras_tipo_obispo... " />
-                <marker date="1473826726742" expanded="true" signature="927:973" ph="DELETE FROM " />
-                <marker date="1473826726742" expanded="true" signature="1284:1354" ph="UPDATE obras... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TipoObra.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modelo/TipoObra.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+            <state relative-caret-position="300">
+              <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding>
-                <marker date="1473829772470" expanded="true" signature="333:534" ph="INSERT INTO obras_tipo_obra... " />
-                <marker date="1473829772470" expanded="true" signature="910:954" ph="DELETE FROM " />
-                <marker date="1473829772470" expanded="true" signature="1263:1331" ph="UPDATE obras... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Obispo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modelo/Obispo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="120" column="54" selection-start-line="120" selection-start-column="54" selection-end-line="120" selection-end-column="54" />
-              <folding>
-                <marker date="1473826726741" expanded="true" signature="329:2070" ph="INSERT INTO obras_obispo... " />
-                <marker date="1473826726741" expanded="true" signature="3293:3361" ph="DELETE FROM " />
-                <marker date="1473826726741" expanded="true" signature="3664:4179" ph="UPDATE obras... " />
+                <marker date="1474124762426" expanded="true" signature="333:534" ph="INSERT INTO obras_tipo_obra... " />
+                <marker date="1474124762426" expanded="true" signature="910:954" ph="DELETE FROM " />
+                <marker date="1474124762426" expanded="true" signature="1263:1331" ph="UPDATE obras... " />
               </folding>
             </state>
           </provider>
@@ -90,40 +58,9 @@
       <file leaf-file-name="Obra.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modelo/Obra.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1311">
+            <state relative-caret-position="198">
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1473831617109" expanded="true" signature="317:1735" ph="INSERT INTO obras_obra... " />
-                <marker date="1473831617109" expanded="true" signature="2761:2827" ph="DELETE FROM " />
-                <marker date="1473831617109" expanded="true" signature="3126:3541" ph="UPDATE obras... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buscar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/TIENDA/buscar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1452835174000" expanded="true" signature="373:502" ph="SELECT REFER... ARTICULOS" />
-                <marker date="1452835174000" expanded="true" signature="705:897" ph="SELECT REFER... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comentario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modelo/Comentario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
-              <folding>
-                <marker date="1473826726740" expanded="true" signature="340:910" ph="INSERT INTO obras_comentarios... " />
-                <marker date="1473826726740" expanded="true" signature="1499:1579" ph="UPDATE obras... " />
-                <marker date="1473826726740" expanded="true" signature="1966:2155" ph="UPDATE obras... " />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,15 +68,9 @@
       <file leaf-file-name="Usuario.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modelo/Usuario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="2772">
               <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
-              <folding>
-                <marker date="1473826726743" expanded="true" signature="250:436" ph="INSERT INTO usuario... " />
-                <marker date="1473826726743" expanded="true" signature="1093:1269" ph="INSERT INTO habitacion_usuario... " />
-                <marker date="1473826726743" expanded="true" signature="1798:1858" ph="INSERT INTO tipo_usuario... " />
-                <marker date="1473826726743" expanded="true" signature="2136:2213" ph="SELECT * FRO... usuario" />
-                <marker date="1473826726743" expanded="true" signature="2599:2862" ph="SELECT a.num... habitacion" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -187,10 +118,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1233" />
-    <option name="height" value="784" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1458" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -236,34 +167,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="software2_obras_iglesia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="software2_obras_iglesia" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="software2_obras_iglesia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="software2_obras_iglesia" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modelo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -273,10 +176,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -323,12 +229,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\samsung\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -342,33 +256,34 @@
       <workItem from="1473821718431" duration="487000" />
       <workItem from="1473879895880" duration="5527000" />
       <workItem from="1473826779780" duration="5296000" />
+      <workItem from="1474124772549" duration="747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12332000" />
+    <option name="totallyTimeSpent" value="13079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1233" height="784" extended-state="6" />
+    <frame x="-9" y="-9" width="1458" height="870" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17502055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -389,6 +304,58 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="7" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelo/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelo/TipoObra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1474124762426" expanded="true" signature="333:534" ph="INSERT INTO obras_tipo_obra... " />
+            <marker date="1474124762426" expanded="true" signature="910:954" ph="DELETE FROM " />
+            <marker date="1474124762426" expanded="true" signature="1263:1331" ph="UPDATE obras... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelo/Obra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelo/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelo/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -399,11 +366,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1473826726741" expanded="true" signature="329:2070" ph="INSERT INTO obras_obispo... " />
-            <marker date="1473826726741" expanded="true" signature="3293:3361" ph="DELETE FROM " />
-            <marker date="1473826726741" expanded="true" signature="3664:4179" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -411,11 +374,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1473826726741" expanded="true" signature="329:2070" ph="INSERT INTO obras_obispo... " />
-            <marker date="1473826726741" expanded="true" signature="3293:3361" ph="DELETE FROM " />
-            <marker date="1473826726741" expanded="true" signature="3664:4179" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -459,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
           <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,46 +446,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modelo/Usuario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="2772">
           <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
-          <folding>
-            <marker date="1473826726743" expanded="true" signature="250:436" ph="INSERT INTO usuario... " />
-            <marker date="1473826726743" expanded="true" signature="1093:1269" ph="INSERT INTO habitacion_usuario... " />
-            <marker date="1473826726743" expanded="true" signature="1798:1858" ph="INSERT INTO tipo_usuario... " />
-            <marker date="1473826726743" expanded="true" signature="2136:2213" ph="SELECT * FRO... usuario" />
-            <marker date="1473826726743" expanded="true" signature="2599:2862" ph="SELECT a.num... habitacion" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="90" column="63" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="63" />
+        <state relative-caret-position="1430">
+          <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/TIENDA/buscar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1452835174000" expanded="true" signature="373:502" ph="SELECT REFER... ARTICULOS" />
-            <marker date="1452835174000" expanded="true" signature="705:897" ph="SELECT REFER... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIENDA/buscar.php" />
     <entry file="file://$PROJECT_DIR$/modelo/TipoObispo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-406">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-          <folding>
-            <marker date="1473826726742" expanded="true" signature="344:547" ph="INSERT INTO obras_tipo_obispo... " />
-            <marker date="1473826726742" expanded="true" signature="927:973" ph="DELETE FROM " />
-            <marker date="1473826726742" expanded="true" signature="1284:1354" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -536,11 +473,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="120" column="54" selection-start-line="120" selection-start-column="54" selection-end-line="120" selection-end-column="54" />
-          <folding>
-            <marker date="1473826726741" expanded="true" signature="329:2070" ph="INSERT INTO obras_obispo... " />
-            <marker date="1473826726741" expanded="true" signature="3293:3361" ph="DELETE FROM " />
-            <marker date="1473826726741" expanded="true" signature="3664:4179" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -556,34 +489,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
-          <folding>
-            <marker date="1473826726740" expanded="true" signature="340:910" ph="INSERT INTO obras_comentarios... " />
-            <marker date="1473826726740" expanded="true" signature="1499:1579" ph="UPDATE obras... " />
-            <marker date="1473826726740" expanded="true" signature="1966:2155" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modelo/Obra.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1311">
+        <state relative-caret-position="198">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <marker date="1473831617109" expanded="true" signature="317:1735" ph="INSERT INTO obras_obra... " />
-            <marker date="1473831617109" expanded="true" signature="2761:2827" ph="DELETE FROM " />
-            <marker date="1473831617109" expanded="true" signature="3126:3541" ph="UPDATE obras... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modelo/TipoObra.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        <state relative-caret-position="300">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
           <folding>
-            <marker date="1473829772470" expanded="true" signature="333:534" ph="INSERT INTO obras_tipo_obra... " />
-            <marker date="1473829772470" expanded="true" signature="910:954" ph="DELETE FROM " />
-            <marker date="1473829772470" expanded="true" signature="1263:1331" ph="UPDATE obras... " />
+            <marker date="1474124762426" expanded="true" signature="333:534" ph="INSERT INTO obras_tipo_obra... " />
+            <marker date="1474124762426" expanded="true" signature="910:954" ph="DELETE FROM " />
+            <marker date="1474124762426" expanded="true" signature="1263:1331" ph="UPDATE obras... " />
           </folding>
         </state>
       </provider>

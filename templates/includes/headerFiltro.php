@@ -64,5 +64,20 @@
                 <li><a class="navbar-brand">Bienvenido usuario</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
+        <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-2">
+            <ul class="nav navbar-nav ">
+                <li><h4>Resultados</h4></li>
+                </ul>
+
+            <!-- Obra -->
+            <ul class="nav navbar-nav navbar-right">
+                 <li>   Ordenar por:</li>
+                  <li>  <select class="form-control">
+                        <option>Obras más populares</option>
+                        <option>Obras recientemente agregadas</option>
+                    </select> </li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+
     </div><!-- /.container-fluid -->
 </nav>
